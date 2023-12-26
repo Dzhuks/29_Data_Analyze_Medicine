@@ -7,7 +7,7 @@
 
 Финальный дашборд исследования - [ссылка](https://datalens.yandex/h54eeny150n86)
 
-Презентация проекта - [ссылка](https://drive.google.com/file/d/1rhBSU3r-Aojo2C5rF9Oe2BKKxYiecwzc/view?usp=sharing)
+Презентация проекта - [ссылка](https://docs.google.com/presentation/d/1OWYyo9JnbPWCz6NVQnk3eIRCChungzN8VaiM13VMUAU/edit?usp=sharing)
 
 ## Описание полей
 
